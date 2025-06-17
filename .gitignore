@@ -1,0 +1,19 @@
+# Logs & models
+logs/
+model/
+*.zip
+
+# Notebook checkpoints & old notebooks
+*.ipynb
+
+# Virtual env (if you created one)
+venv/
+.venv/
+
+# Zip artifacts
+*.zip
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
