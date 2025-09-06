@@ -1,4 +1,6 @@
 
 gymnasium[box2d]>=0.28.0
+flappy-bird-gymnasium>=0.2.0   
 stable-baselines3[extra]>=1.8.0
 torch>=2.0.0
+numpy>=1.23.0
